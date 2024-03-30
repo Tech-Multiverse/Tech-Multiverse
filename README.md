@@ -5,7 +5,7 @@
 
 ### Hi there 👋
 
-My name is Rob. This is where I'll share my project repos found on [Tech-Multiverse.com](https://tech-multiverse.com/).
+My name is Rob. This is where I'll share my repos for projects on [Tech-Multiverse.com](https://tech-multiverse.com/).
 
 <!--
 **Tech-Multiverse/Tech-Multiverse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
