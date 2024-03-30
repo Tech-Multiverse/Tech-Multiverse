@@ -1,11 +1,11 @@
-<div style="text-align:center;">
+<div style="width:100%; text-align:center; background-color:#0d1117;">
     <img src="./assets/logo-banner.png" alt="Tech Multiverse Logo">
 </div>
 
 
 ### Hi there 👋
 
-My name is Rob. I'm the developer behind Tech-Multiverse.com
+My name is Rob. This is where I'll share my project repos found on [Tech-Multiverse.com](https://tech-multiverse.com/).
 
 <!--
 **Tech-Multiverse/Tech-Multiverse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
